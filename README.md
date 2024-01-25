@@ -1,4 +1,4 @@
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Hola!+I'm+Ashwin+KV;>+Welcome+to+my+GitHub+Profile"/>
     <img src='https://img.shields.io/badge/FullStack%20Developer-MERN-103E2E?style=for-the-badge&logo=nodedotjs'/> 
